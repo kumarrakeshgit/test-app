@@ -1,4 +1,0 @@
-# Quiz CLI
-
-Project description
-
